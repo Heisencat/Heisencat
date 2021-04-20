@@ -4,4 +4,4 @@
 Thanks to DataQuest gained solid knowledge of Python programing language, which I constantly developing by studying more materials. 
 After completion of this comprehensive "quest", I dived deeper into this beautiful area.
 
-🌱 I’m currently taking another course called DeepLearning by Andrew Ng. 
+🌱 I’m currently taking another course called DeepLearning by Andrew Ng.  Andrew is an adjunct professor at Stanford University.
